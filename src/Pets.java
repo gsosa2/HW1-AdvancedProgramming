@@ -1,3 +1,16 @@
+/**Class: Advanced Programming
+ * @author Gabe Sosa
+ * @version 1.0
+ * Course: ITEC 3150 Spring 2024
+ * Written: Jan 23, 2024
+ *
+ * This class hold the Pet attributes
+ */
+
+
+
+
+
 public abstract class Pets {
     private String name;
 

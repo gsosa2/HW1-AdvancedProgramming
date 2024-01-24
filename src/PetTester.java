@@ -1,3 +1,12 @@
+/**Class: Advanced Programming
+ * @author Gabe Sosa
+ * @version 1.0
+ * Course: ITEC 3150 Spring 2024
+ * Written: Jan 23, 2024
+ *
+ * This class hold the main code for displaying,finding,deleting, and adding new pets.
+ */
+
 import java.io.*;
 import java.util.*;
 
